@@ -1,5 +1,14 @@
 # @blitzjs/rpc
 
+## 2.0.0-beta.28
+
+### Patch Changes
+
+- 5166e5e03: (feat) upgrade tslog to v4.8.2
+- 2533caf48: Fix return type of `requestMiddlewares` in `RpcServerPlugin`
+- Updated dependencies [5166e5e03]
+  - blitz@2.0.0-beta.28
+
 ## 2.0.0-beta.27
 
 ### Minor Changes
